@@ -1,4 +1,4 @@
-#  Anaand — Your Wellness Companion
+#  🌿Anaand — Your Wellness Companion
 
 **Live Demo:** [anaand.vercel.app](https://anaand.vercel.app)  
 
@@ -71,6 +71,7 @@ Anaand/
 
 Created as part of Project Submission for KYPTRONIX LLP Campus Recruitment Drive  **Python-developer** to demonstrate how  Python based simple Flask applications can be used to build the foundation for a wellness platform promoting peace, mindfulness, and happiness.
 
-
+##  License
+This project is licensed under the **MIT License**.
 
 
