@@ -2,6 +2,10 @@
 
 **Live Demo:** [anaand.vercel.app](https://anaand.vercel.app)  
 
+<p align="center">
+  <img src="screenshot-landing-page.png" alt="Anaand Landing Page" width="700">
+</p>
+
 
 ---
 
